@@ -1,0 +1,15 @@
+button{
+    height: 20px;
+    width: 80px;
+    background-color: rgba(0, 255, 0, 0.445);
+    margin: 10px;
+}
+
+.todo{
+    height: 50px;
+    width: 100vw;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
